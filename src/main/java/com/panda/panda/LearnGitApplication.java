@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LearnGitApplication {
 
     public static void main(String[] args) {
+        // master do
         // dev do
         SpringApplication.run(LearnGitApplication.class, args);
     }
